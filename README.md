@@ -1,4 +1,10 @@
+# React Movie Search App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+The movie search app was created using the [Build a movie search app in React](https://scrimba.com/course/greactmovie/enrolled) course on [scrimba](https://scrimba.com).
+
+The search functionality is implemented using [The Movie Database](https://www.themoviedb.org) API.
 
 ## Available Scripts
 
